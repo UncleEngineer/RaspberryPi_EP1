@@ -1,6 +1,9 @@
 # RaspberryPi_EP1
 RaspberryPi_EP1
 
+Youtube: https://www.youtube.com/watch?v=FF0zjOQxlP4
+
+
 Raspberry Pi 3 - Step by Step
 
 1- Goto https://www.raspberrypi.org/
